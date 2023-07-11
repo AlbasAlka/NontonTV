@@ -5,7 +5,7 @@
 </script>
 <script>
 
-#EXTM3U url-tvg="http://103.152.118.53:80/main/epg.xml.gz, http://103.152.118.53:80/local/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml,  https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://epg.kampung.xyz/IPTV.xml" refresh="3600"
+#EXTM3U url-tvg="http://exploding.one/get.php?username=elite30&password=kpvyVYkCAJ&type=m3u, http://103.152.118.53:80/main/epg.xml.gz, http://103.152.118.53:80/local/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml,  https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://epg.kampung.xyz/IPTV.xml" refresh="3600"
 
 ########################## NASIONAL ##########################
 
@@ -159,13 +159,6 @@ http://45.129.133.15:8080/3f6d5b2f/4b60123137/280145
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/280249
 
-
-#EXTINF:-1 group-title="Sports" tvg-id="beinsports1indonesia.id" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png",beIN Sports Indonesia 1
-http://beetv.my.id/x/usee-bein1-gojokkk.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-id="beinsports3indonesia.id" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png",beIN Sports Indonesia 3
-http://beetv.my.id/x/usee-bein2-gojokkk.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png",BeIn Sports 1 (K*)
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165105
 
@@ -190,7 +183,7 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298577
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880728
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",SportsStars 3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",SportStars 3
 https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
