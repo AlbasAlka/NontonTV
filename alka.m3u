@@ -653,12 +653,6 @@ http://103.152.118.53:80/streams/efemeks/teelce/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dJdiMsS.jpg" group-title="Knowledge",Be Smart HD
 https://nxanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://i.imgur.com/KmOnvKT.jpg",DMAX
-https://github.com/mimipipi22/nontontv/raw/main/FMX/dmax.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xQwNQAm.jpg" group-title="Entertainment",HGTV HD
-http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2MlR86.jpg" group-title="Knowledge", History HD
@@ -870,7 +864,7 @@ https://anevia115.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-id="LifetimeAsia.us" tvg-name="LIFETIME" tvg-logo="https://i.imgur.com/Dl2WivP.jpg" group-title="Entertainment",Lifetime
+#EXTINF:-1 tvg-id="LifetimeAsia.us" tvg-name="" tvg-logo="https://i.imgur.com/Dl2WivP.jpg" group-title="Entertainment",Lifetime
 https://nxanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -971,6 +965,12 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nBwPUMG.png" group-title="Entertainment",Citra Entertainment 
 https://github.com/mimipipi22/nontontv/raw/main/FMX/cment.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://i.imgur.com/KmOnvKT.jpg",DMAX
+https://github.com/mimipipi22/nontontv/raw/main/FMX/dmax.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xQwNQAm.jpg" group-title="Entertainment",HGTV HD
+http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/index.m3u8
+
 
 ########################## TVRI ##########################
 
@@ -979,7 +979,7 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/cment.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png" group-title="TVRI",TVRI WORLD
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="TVRI",TVRI_SPORTS
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GlPSVUiAE_g/YJVJUDdVerI/AAAAAAAAEZY/mt9F3r8SbfgsO_zSmYuBWU4NSuW0Rl2UwCLcBGAsYHQ/s720/tvrisport-p.png" group-title="TVRI",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-country="ID" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI NASIONAL
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
