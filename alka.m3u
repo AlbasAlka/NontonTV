@@ -37,6 +37,13 @@ https://nxanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="Nasional", INDOSIAR HD
 https://github.com/mimipipi22/nontontv/raw/main/FMX/indosiar.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="Nasional", INDOSIAR HD 2
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/162138
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="Nasional", INDOSIAR HD 3
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162138
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4OGnTqd.png" group-title="Nasional", SCTV HD
 https://github.com/mimipipi22/nontontv/raw/main/FMX/sctv.m3u8
 
@@ -76,7 +83,7 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KpWyLR5i7xQ/YZxuWqY4HfI/AAAAAAAAIJc/aSs_n2nzEQYWjGTpiKpgjjHMiTg7a8jVgCLcBGAsYHQ/s720/Untitled-1.png" group-title="Nasional",Indonesiana TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S8YTgXC.jpg"  group-title="Nasional",MOJI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S8YTgXC.jpg"  group-title="Nasional",MOJI HD
 http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Citra Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png" group-title="Nasional",Citra Drama
@@ -90,17 +97,17 @@ https://nxanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LGo706i.png" group-title="Nasional", Kompas TV HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LGo706i.png" group-title="Nasional", KOMPAS TV HD 
 https://nxanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mbkstdj.png" group-title="Nasional",INews HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mbkstdj.png" group-title="Nasional",INewsTV HD
 https://nxanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nS2rFdl.png" group-title="Nasional", Metro TV HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nS2rFdl.png" group-title="Nasional", METRO TV HD 
 https://nxanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -126,6 +133,13 @@ https://nxanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hcqya4c.png" group-title="Nasional",MNC News HD
 https://nxanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pGuKi9R.jpg" group-title="Nasional",MENTARI TV
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880796
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GVuS3YD.png"  group-title="Nasional",MAGNA TV
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
 
 ########################## BRI LIGA 1 ##########################
 
@@ -159,8 +173,10 @@ http://45.129.133.15:8080/3f6d5b2f/4b60123137/280145
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/280249
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png",BeIn Sports 1 (K*)
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165105
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports1indonesia.id" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png",beIN Sports Indonesia 1
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/165105
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports3indonesia.id" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png",beIN Sports Indonesia 3
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/298506
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/768px-DAZN_F1_logo.svg.png?20220719171020" group-title="Sports", F1_DAZN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -524,9 +540,6 @@ https://nxanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7JK6kg.jpg"  group-title="Tv Daerah",Bandung TV HD 
 https://nxanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pGuKi9R.jpg" group-title="Tv Daerah",Mentari TV
-https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880796
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/221AaUd.png" group-title="Tv Daerah",Batu TV
 http://117.103.69.219:8080/live/streaming/index.m3u8
 
@@ -549,9 +562,6 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/i
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dp5j0zh.png"  group-title="Tv Daerah",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GVuS3YD.png"  group-title="Tv Daerah",MAGNA TV
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bandungtv.id" tvg-logo="https://1.bp.blogspot.com/-MCb7z6f8quY/YJVhZfSkHzI/AAAAAAAAEcQ/x01zoJz6xhIjZATJ0xkoznfy-teH09yQQCLcBGAsYHQ/s720/btvbalikpapan-p.png" group-title="Tv Daerah", Balikpapan TV
 http://122.248.43.138:1935/ch10/myStream/live.m3u8
