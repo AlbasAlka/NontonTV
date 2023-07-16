@@ -555,11 +555,6 @@ https://v6.siar.us/pujatv/live/chunks.m3u8
 #EXTINF:-1 tvg-name="TV" tvg-logo="https://i.imgur.com/JpL5pn3.png" group-title="Tv Daerah", Sangaji TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GSryQP2QxzY/YJVJSh9jSBI/AAAAAAAAEY8/DoGPKlh-sTUYWaCbWc8-D-cmeodB6WOqgCLcBGAsYHQ/s720/tvri-p.png" group-title="Tv Daerah",TVRI Kalsel
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GSryQP2QxzY/YJVJSh9jSBI/AAAAAAAAEY8/DoGPKlh-sTUYWaCbWc8-D-cmeodB6WOqgCLcBGAsYHQ/s720/tvri-p.png" group-title="Tv Daerah",TVRI Kaltim
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dp5j0zh.png"  group-title="Tv Daerah",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
