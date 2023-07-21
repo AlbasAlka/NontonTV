@@ -14,7 +14,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qzpw3yD.png" group-title="Nasional", TRANSTV HD
 https://nxanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:0 group-title="Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",TRANS 7 HD
+#EXTINF:0 group-title="Nasional" tvg-logo="https://i.imgur.com/GEZ0vPS.png",TRANS 7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 https://github.com/mimipipi22/nontontv/raw/main/FMX/trans7.m3u8
 
