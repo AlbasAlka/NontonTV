@@ -14,12 +14,16 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qzpw3yD.png" group-title="Nasional", TRANSTV HD
 https://nxanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
+#EXTINF:0 group-title="Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",TRANS 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+https://github.com/mimipipi22/nontontv/raw/main/FMX/trans7.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GEZ0vPS.png" group-title="Nasional", TRANS7 HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GEZ0vPS.png" group-title="Nasional", TRANS 7 HD (K)
 https://nxanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
-#EXTINF:0 group-title="Nasional" tvg-logo="https://i.imgur.com/GEZ0vPS.png",TRANS 7 HD (2)
+#EXTINF:0 group-title="Nasional" tvg-logo="https://i.imgur.com/GEZ0vPS.png",TRANS 7 HD (D)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/162502
 
