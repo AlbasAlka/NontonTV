@@ -86,8 +86,12 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KpWyLR5i7xQ/YZxuWqY4HfI/AAAAAAAAIJc/aSs_n2nzEQYWjGTpiKpgjjHMiTg7a8jVgCLcBGAsYHQ/s720/Untitled-1.png" group-title="Nasional",Indonesiana TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S8YTgXC.jpg"  group-title="Nasional",MOJI HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S8YTgXC.jpg"  group-title="Nasional",MOJI SD
 http://210.210.155.35/qwr9ew/s/s41/index.m3u8
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-KpWyLR5i7xQ/YZxuWqY4HfI/AAAAAAAAIJc/aSs_n2nzEQYWjGTpiKpgjjHMiTg7a8jVgCLcBGAsYHQ/s720/Untitled-1.png" group-title="nasional", MOJI TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/298550
 
 #EXTINF:0 tvg-id="" tvg-name="Citra Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png" group-title="Nasional",Citra Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
