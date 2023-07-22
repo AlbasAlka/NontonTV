@@ -4,6 +4,7 @@
   window.location = "https://saweria.co/AlbasAlka";
 </script>
 </html>
+
 #EXTM3U url-tvg="https://thefirefox12537.github.io/streams/epg/global/guide.xml.gz , https://epg.kampung.xyz/IPTV.xml , http://103.152.118.53:80/local/epg.xml , https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml , https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml , https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml , https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml , https://weareblahs.github.io/epg/astro.xml , https://weareblahs.github.io/epg/rtmklik.xml" refresh="3600"
 
 ########################## NASIONAL ##########################
@@ -1130,24 +1131,19 @@ http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/298577.m3u8
 http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/298578.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LX1SD9rP/astrosport.png" group-title="SPORTS", Astro Supersport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium123/index.m3u8
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/146068
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kv9WKXWh/astrosport2.png" group-title="SPORTS", Astro Supersport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://donelfantastic.github.io/creativemedia/hls/asp2cmedia.m3u8
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/157556
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3LtpKmn/astrosport3.png" group-title="SPORTS", Astro Supersport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium125/index.m3u8
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/157557
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNPWvDzc/astro4.png" group-title="SPORTS", Astro Supersport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium126/index.m3u8
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/157558
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbR1yn6G/astrosport5.png" group-title="SPORTS", Astro Supersport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium43/index.m3u8
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/157559
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/0lwdq31638048788.png" group-title="SPORTS", Supersport Variety 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1405,6 +1401,8 @@ https://bkm.fbox.fpt.vn/bpk-tv/KplusSport1/output/index.mpd|User-Agent="Mozilla/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpNb3zRq/K-sport2.png" group-title="SPORTS", K+ Sport 2
 http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd?hdnts=exp=1679419471~acl=/*~hmac=44bf1a2876bf4661978dbdd76f28b5932c8160499b6c2e208144f7a238d0caae|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+####CLUBTV####
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="FOOTBALL CLUB TV", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
@@ -1420,8 +1418,8 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt914435f46e5f317f/60f97c0ced7a525fcd55cb19/MicrosoftTeams-image_(13).png" group-title="FOOTBALL CLUB TV", LFC TV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://www.cde.ual.es/wp-content/uploads/2021/11/ac-milan-logo-png.png" group-title="FOOTBALL CLUB TV", AC Milan TV
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-025/stream.mpd
+#EXTINF:-1 #tvg-logo="https://www.cde.ual.es/wp-content/uploads/2021/11/ac-milan-logo-png.png" group-title="FOOTBALL CLUB TV", AC Milan TV
+#https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-025/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJgTwqZF/pngwing-com.png" group-title="FOOTBALL CLUB TV", Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
