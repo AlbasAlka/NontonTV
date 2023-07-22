@@ -632,6 +632,65 @@ http://122.248.43.138:1935/ch25/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-a8advCHx5_k/YJVhcV5Ej0I/AAAAAAAAEc4/2jju3rGF3PITooQ60eEhc5W5yc7uZRFBgCLcBGAsYHQ/s720/jawapostv-p.png"  group-title="Tv Daerah", Jawa Pos TV
 https://v2.siar.us/jawapostv/live/chunks.m3u8 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-uX8fbRfI3e4/YXjc8vczMdI/AAAAAAAAH9U/Uv-Uem0rBeovw92UWhPceuDvRVgzBSXgQCLcBGAsYHQ/s720/Music_TV_P.png" group-title="Tv Daerah",Music Channel 
+https://nxanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
+#EXTINF:-1 group-title="Tv Daerah" tvg-id="musikindonesia.id" tvg-logo="https://i.imgur.com/Vzg8TUC.png",Musik Indonesia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QHwE9PpL4E0/YJV4o_r064I/AAAAAAAAEgk/afD3msLGOys2OKhP7yTvLhmH7PQx1AlcgCLcBGAsYHQ/s720/tawaftv-pos.png" group-title="Tv Daerah",Tawaf TV 
+https://nxanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+                    
+#EXTINF:-1 group-title="Tv Daerah" tvg-logo="https://1.bp.blogspot.com/-QOpHfe7nRWg/YJV4l49ESeI/AAAAAAAAEf8/U5111M94WAAUal0vizKGTpsFFtnYsXzhACLcBGAsYHQ/s720/mtatv-pos.png",MTA TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nTkSY8C2QF0/YJV4nCh3upI/AAAAAAAAEgQ/0mOHpiioyC0ZsNXq9OXoomikWhsQv2XrwCLcBGAsYHQ/s720/rodja-pos.png" group-title="Tv Daerah",Rodja TV
+http://210.210.155.35:80/session/c8a56596-2ed9-11eb-a769-b82a72d63267/qwr9ew/s/s14/01.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3aREoYVukBA/YJV4nFucqtI/AAAAAAAAEgM/m8h_dTvB2yIGLnUUM7kv3fNIBIjR7Kt6gCLcBGAsYHQ/s720/quran-pos.png" group-title="Tv Daerah",Al Quran Al Kareem TV
+https://nxanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oTwOEL_5IRU/YJV4oUB4qfI/AAAAAAAAEgc/-0kJXulu33oRb6ejYKeduTvGvv9e9lDVACLcBGAsYHQ/s720/sunnah-pos.png" group-title="Tv Daerah",AL Sunnah Nabawi TV
+http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/01.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Kfau9QoNSSc/YJV9TpI6IZI/AAAAAAAAEhM/-sJaztNnhtoUllr9iou504MOGhNUBhbbgCLcBGAsYHQ/s720/mnc-muslim-p.png" group-title="Tv Daerah",Muslim TV
+https://nxanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-uSh5FPUCqPo/YJV4j7BrZVI/AAAAAAAAEfg/6e99gPepAickNOefsoAAeSqovGu0r8DKACLcBGAsYHQ/s720/TVMu-pos.png" group-title="Tv Daerah",TV-MU
+https://nxanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+
+#EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/c986ec85a004f80.png" group-title="Tv Daerah",Makkah
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/c986ec85a004f80.png" group-title="Tv Daerah",Makkah Live
+http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm 
+#EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20180515/fee/kisspng-medina-mecca-television-channel-streaming-media-5afa9dd1326e53.1269584315263738412066.jpg" group-title="Tv Daerah",Madinah
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-gFkWg35ArIo/YJVhXs5C47I/AAAAAAAAEb4/wfXHW12h8jsQNE9MpcHfCNJViSUHuEDHwCLcBGAsYHQ/s720/adi-p.png" group-title="Tv Daerah",ADI TV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ZjlBI7NQqO0/YJYrqbmeBVI/AAAAAAAAEkQ/3goOtoCrFAAugPZTm7cD1xdoXSAfzLdHgCLcBGAsYHQ/s720/LIFETIME-Poster.png" group-title="Tv Daerah",LIFE
+https://av-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
 
 ===========KNOWLEDGE==========
 
