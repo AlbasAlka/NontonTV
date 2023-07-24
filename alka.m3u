@@ -1150,20 +1150,23 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
 
 ########ASSP#######
 
-#EXTINF:0 tvg-id="AstroSuperSport.my" tvg-name="astro supersport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",Z Astro SuperSport
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/146068
+#EXTINF:0 tvg-id="AstroSuperSport.my" tvg-name="astro supersport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Astro SuperSport",Astro SuperSport 1 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:20:F7/RMl92JiBR6/93836
 
-#EXTINF:0 tvg-id="AstroSuperSport2.my" tvg-name="astro supersport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports",Z Astro SuperSport 2
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/157556
+#EXTINF:0 tvg-id="AstroSuperSport2.my" tvg-name="astro supersport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Astro SuperSport",Astro SuperSport 2 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:20:F7/RMl92JiBR6/93837
 
-#EXTINF:0 tvg-id="AstroSuperSport3.my" tvg-name="astro supersport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Sports",Z Astro SuperSport 3
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/157557
+#EXTINF:0 tvg-id="AstroSuperSport3.my" tvg-name="astro supersport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Astro SuperSport",Astro SuperSport 3 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:20:F7/RMl92JiBR6/93838
 
-#EXTINF:0 tvg-id="AstroSuperSport4.my" tvg-name="astro supersport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Sports",Z Astro SuperSport 4
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/157558
+#EXTINF:0 tvg-id="AstroSuperSport4.my" tvg-name="astro supersport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Astro SuperSport",Astro SuperSport 4 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:20:F7/RMl92JiBR6/93839
 
-#EXTINF:0 tvg-id="AstroSuperSport4.my" tvg-name="astro supersport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Astro_ASSP5.png" group-title="Sports",Z Astro SuperSport 5
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/157559
+#EXTINF:0 tvg-id="AstroSuperSport5.my" tvg-name="astro supersport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Astro_ASSP5.png" group-title="Astro SuperSport",Astro SuperSport 5 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:20:F7/RMl92JiBR6/93840
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Astro SuperSport", Astro Cricket
+https://webudit.cdnhks.lol/lb/premium370/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 
 ####SPORT####
@@ -1340,9 +1343,6 @@ https://webudit.cdnhks.lol/lb/premium288/index.m3u8|referer=https://widevine.lic
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xsgYdKT/wwenetwork.png" group-title="SPORTS", WWE Network
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2B9BRBw/astrocricket.png" group-title="SPORTS", Astro Cricket
-https://webudit.cdnhks.lol/lb/premium370/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvQGBn2F/abudhabisport1.png" group-title="SPORTS", Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
