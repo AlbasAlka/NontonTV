@@ -1447,25 +1447,25 @@ https://webudit.cdnhks.lol/lb/premium45/index.m3u8?|referer=https://widevine.lic
 
 
 
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE ACTION 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxsGb9aZY7ao02hjfE-9mQGw-S-pqvhmL64w&usqp=CAU" group-title="BEIN GRUP", BEIN MOONBUG
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31488_&extension=ts
 
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE ACTION 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxsGb9aZY7ao02hjfE-9mQGw-S-pqvhmL64w&usqp=CAU" group-title="BEIN GRUP", BEIN MOONBUG
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=33201_&extension=ts
 
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE FAMILY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP", BEIN MOVIE FAMILY
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31490_&extension=ts
 
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE PREMIERE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP", BEIN MOVIE PREMIERE
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31492_&extension=ts
 
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE PREMIER 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP", BEIN MOVIE PREMIER 2
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=33200_&extension=ts
 
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE STARS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP", BEIN MOVIE STARS
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31493_&extension=ts
 
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE TURK
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP", BEIN MOVIE TURK
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31494_&extension=ts
 
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN SERIES 4
@@ -1814,28 +1814,28 @@ http://kingtop10.net:7070/clubdeking2/eh4utvgr/71695
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", beIN-SPORTS XTRA 2 FHD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/71696
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", AR|beIN MOVIES 1 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", AR|beIN MOVIES 1 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/71221
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", AR|beIN MOVIES 1 HEVC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", AR|beIN MOVIES 1 HEVC
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/124862
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", AR|beIN MOVIES 2 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", AR|beIN MOVIES 2 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/71222
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", AR|beIN MOVIES 2 HEVC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", AR|beIN MOVIES 2 HEVC
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/124863
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", AR|beIN MOVIES 3 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", AR|beIN MOVIES 3 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/71223
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", AR|beIN MOVIES 3 HEVC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", AR|beIN MOVIES 3 HEVC
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/124864
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", AR|beIN MOVIES 4 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", AR|beIN MOVIES 4 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/71224
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", AR|beIN MOVIES 4 HEVC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", AR|beIN MOVIES 4 HEVC
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/124865
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", AR|beIN SERIES 1 HEVC
@@ -1856,13 +1856,13 @@ http://kingtop10.net:7070/clubdeking2/eh4utvgr/124867
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", AR|beIN FOX HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/71245
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", AR|beIN FOX ACTION MOVIES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", AR|beIN FOX ACTION MOVIES
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/71243
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", AR|beIN Fox Family Movies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", AR|beIN Fox Family Movies
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/129262
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", AR|beIN FOX Movies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", AR|beIN FOX Movies
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/86222
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", AR|beIN AMC HD
@@ -2078,25 +2078,25 @@ http://kingtop10.net:7070/clubdeking2/eh4utvgr/106384
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEiN BOX OFFICE 3 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106385
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|beIN MOVIES ACTION 2 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|beIN MOVIES ACTION 2 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106386
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|beIN MOVIES ACTION HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|beIN MOVIES ACTION HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106387
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|beIN MOVIES FAMILY HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|beIN MOVIES FAMILY HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106388
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|beIN MOVIES PREMIERE 2 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|beIN MOVIES PREMIERE 2 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106389
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|beIN MOVIES PREMIERE HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|beIN MOVIES PREMIERE HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106390
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|beIN MOVIES STARS HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|beIN MOVIES STARS HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106391
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|beIN MOVIES TURK HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|beIN MOVIES TURK HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106392
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|beIN SERIES COMEDY HD
@@ -2144,25 +2144,25 @@ http://kingtop10.net:7070/clubdeking2/eh4utvgr/106456
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: BEiN BOX OFFICE 3 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106457
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: beIN MOVIES ACTION 2 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|BEINTK: beIN MOVIES ACTION 2 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106458
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: beIN MOVIES ACTION HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|BEINTK: beIN MOVIES ACTION HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106459
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: beIN MOVIES FAMILY HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|BEINTK: beIN MOVIES FAMILY HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106460
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: beIN MOVIES PREMIERE 2 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|BEINTK: beIN MOVIES PREMIERE 2 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106461
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: beIN MOVIES PREMIERE HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|BEINTK: beIN MOVIES PREMIERE HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106462
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: beIN MOVIES STARS HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|BEINTK: beIN MOVIES STARS HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106463
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: beIN MOVIES TURK HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|BEINTK: beIN MOVIES TURK HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106464
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: beIN SERIES COMEDY HD
@@ -2177,34 +2177,34 @@ http://kingtop10.net:7070/clubdeking2/eh4utvgr/106467
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: beIN SERIES VICE HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106468
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: MOVIE SMART ACTION HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|BEINTK: MOVIE SMART ACTION HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106469
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: MOVIE SMART CLASSIC HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|BEINTK: MOVIE SMART CLASSIC HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106470
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: MOVIE SMART FAMILY HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|BEINTK: MOVIE SMART FAMILY HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106471
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: MOVIE SMART FEST HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|BEINTK: MOVIE SMART FEST HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106472
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: MOVIE SMART GOLD HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|BEINTK: MOVIE SMART GOLD HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106473
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: MOVIE SMART PLATIN 2 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|BEINTK: MOVIE SMART PLATIN 2 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106474
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: MOVIE SMART PLATIN HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|BEINTK: MOVIE SMART PLATIN HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106475
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: MOVIE SMART PREMIUM 2 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|BEINTK: MOVIE SMART PREMIUM 2 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106476
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: MOVIE SMART PREMIUM HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|BEINTK: MOVIE SMART PREMIUM HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106477
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: MOVIE SMART TURK HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GRUP 2", TR|BEINTK: MOVIE SMART TURK HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106478
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: FX HD
