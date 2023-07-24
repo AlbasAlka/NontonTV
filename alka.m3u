@@ -1148,30 +1148,31 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index
 #EXTINF:-1 group-title="TVRI"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Sumatra Selatan
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
 
-########ASSP#######
+########ASTRO#######
 
 #EXTINF:0 tvg-id="AstroSuperSport5.my" tvg-name="astro supersport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Astro_ASSP5.png" group-title="ASTRO BOY",Astro SuperSport 5 HD
-##http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:20:F7/RMl92JiBR6/93840
+##
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO BOY", ASTRO SUPERSPORT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports", ASTRO SUPERSPORT 1 UHD
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571245&extension=ts&play_token=oatD6LI1Qd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="ASTRO BOY", ASTRO SUPERSPORT 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports", ASTRO SUPERSPORT 2 HD
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571248&extension=ts&play_token=KwS7LBpk2j
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="ASTRO BOY", ASTRO SUPERSPORT 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Sports", ASTRO SUPERSPORT 3 HD
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571247&extension=ts&play_token=YQu2x70UI7
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="ASTRO BOY", ASTRO SUPERSPORT 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Sports", ASTRO SUPERSPORT 4 HD
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571246&extension=ts&play_token=mionprXuno
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="ASTRO BOY", ASTRO CRICKET (Backup)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Sports", ASTRO CRICKET (Backup)
 https://webudit.cdnhks.lol/lb/premium370/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/astrocricket.png" group-title="ASTRO BOY", ASTRO CRICKET
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/astrocricket.png" group-title="Sports", ASTRO CRICKET
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1036490&extension=ts&play_token=83HkgGZDVI
+
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTRORUGBYPASSTV.png" group-title="Sports", PREMIERSPORTS
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571253&extension=ts&play_token=OqkrNxqNnQ
 
 
 #EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTROPRIMA.png" group-title="ASTRO BOY", ASTRO PRIMA
@@ -1181,7 +1182,7 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571237&extension=
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571238&extension=ts&play_token=Pxw1nnzhzz
 
 #EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTROWARNA.png" group-title="ASTRO BOY", ASTRO WARNA
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571231&extension=ts&play_token=WhZ2gZN7Bm
+#http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571231&extension=ts&play_token=WhZ2gZN7Bm
 
 #EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTROVaanavil.jpeg" group-title="ASTRO BOY", ASTRO Vaanavil
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571233&extension=ts&play_token=piYCPCqJGG
@@ -1192,34 +1193,22 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571198&extension=
 #EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTROXIAOTAIYANG.jpeg" group-title="ASTRO BOY", ASTRO XIAO TAI YANG
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571230&extension=ts&play_token=Yta3e8Qsnk
 
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTROAEC.png" group-title="ASTRO BOY", ASTRO AEC
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571228&extension=ts&play_token=tcYdzF3rOv
-
 #EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTROAOD3.jpeg" group-title="ASTRO BOY", ASTRO AOD 351
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571226&extension=ts&play_token=LqvcYpx38K
-
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTROAOD3.jpeg" group-title="ASTRO BOY", ASTRO AOD 352
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571225&extension=ts&play_token=wt0kwXcvFs
 
 #EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTROAOD3.jpeg" group-title="ASTRO BOY", ASTRO AOD 353
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571229&extension=ts&play_token=mV27xOjoHh
 
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTROAOD3.jpeg" group-title="ASTRO BOY", ASTRO AOD 355
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571223&extension=ts&play_token=y6yaxSuv06
-
 #EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/one.png" group-title="ASTRO BOY", ASTRO ONE
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571193&extension=ts&play_token=Xe6hMCZOQT
 
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//logoastroawani5.png" group-title="ASTRO BOY", ASTRO AWANI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="ASTRO BOY", ASTRO AWANI
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571243&extension=ts&play_token=vHCxA4VVCN
 
 #EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTROCERIA.png" group-title="ASTRO BOY", ASTRO CERIA
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571241&extension=ts&play_token=gzEghu5blV
 
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTRORUGBYPASSTV.png" group-title="ASTRO BOY", ASTRO RUGBY PASS TV
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571253&extension=ts&play_token=OqkrNxqNnQ
-
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTRORIA.jpeg" group-title="ASTRO BOY", ASTRO RIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="ASTRO BOY", ASTRO RIA
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571236&extension=ts&play_token=9Kjmz5Ts26
 
 #EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTRORANIA.jpeg" group-title="ASTRO BOY", ASTRO RANIA
