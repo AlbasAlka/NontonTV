@@ -1489,8 +1489,11 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63100_&extens
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_box_office_hepsi.png" group-title="BEIN GRUP", BEIN BOX OFFICE 3
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63102_&extension=ts
 
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", SINEMA AKSIYON
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/SINEMA_AKSIYON.png" group-title="BEIN GRUP", SINEMA AKSIYON
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31500_&extension=ts
+
+
+
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", beIN SPORTS NEWS HD
@@ -1499,22 +1502,22 @@ http://kingtop10.net:7070/clubdeking2/eh4utvgr/102546
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", beIN SPORTS HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/7757
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", beIN SPORTS PREMIUM 1HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBD6vh2_RE7KXamgY38npYN7K3ycmRLWFXKZ7EgBlWR_ZwR7eIL8v-H3c&s=10" group-title="BEIN GRUP 2", beIN SPORTS PREMIUM 1HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/7756
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", beIN SPORTS PREMIUM 1 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBD6vh2_RE7KXamgY38npYN7K3ycmRLWFXKZ7EgBlWR_ZwR7eIL8v-H3c&s=10" group-title="BEIN GRUP 2", beIN SPORTS PREMIUM 1 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/153582
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", beIN SPORTS PREMIUM 2HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBD6vh2_RE7KXamgY38npYN7K3ycmRLWFXKZ7EgBlWR_ZwR7eIL8v-H3c&s=10" group-title="BEIN GRUP 2", beIN SPORTS PREMIUM 2HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/7755
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", beIN SPORTS PREMIUM 2 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBD6vh2_RE7KXamgY38npYN7K3ycmRLWFXKZ7EgBlWR_ZwR7eIL8v-H3c&s=10" group-title="BEIN GRUP 2", beIN SPORTS PREMIUM 2 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/153583
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", beIN SPORTS PREMIUM 3HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBD6vh2_RE7KXamgY38npYN7K3ycmRLWFXKZ7EgBlWR_ZwR7eIL8v-H3c&s=10" group-title="BEIN GRUP 2", beIN SPORTS PREMIUM 3HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/7749
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", beIN SPORTS PREMIUM 3 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBD6vh2_RE7KXamgY38npYN7K3ycmRLWFXKZ7EgBlWR_ZwR7eIL8v-H3c&s=10" group-title="BEIN GRUP 2", beIN SPORTS PREMIUM 3 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/153584
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", beIN SPORTS 1HD
@@ -1628,13 +1631,13 @@ http://kingtop10.net:7070/clubdeking2/eh4utvgr/125324
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", beIN SPORTS 7SD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/125325
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", beIN SPORTS 1 PREMIUM  (H.265)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBD6vh2_RE7KXamgY38npYN7K3ycmRLWFXKZ7EgBlWR_ZwR7eIL8v-H3c&s=10" group-title="BEIN GRUP 2", beIN SPORTS 1 PREMIUM  (H.265)
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/7256
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", beIN SPORTS 2 PREMIUM  (H.265)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBD6vh2_RE7KXamgY38npYN7K3ycmRLWFXKZ7EgBlWR_ZwR7eIL8v-H3c&s=10" group-title="BEIN GRUP 2", beIN SPORTS 2 PREMIUM  (H.265)
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/55414
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", beIN SPORTS 3 PREMIUM (H.265)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBD6vh2_RE7KXamgY38npYN7K3ycmRLWFXKZ7EgBlWR_ZwR7eIL8v-H3c&s=10" group-title="BEIN GRUP 2", beIN SPORTS 3 PREMIUM (H.265)
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/64692
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", beIN SPORTS 1 4K (H.265)
@@ -1760,13 +1763,13 @@ http://kingtop10.net:7070/clubdeking2/eh4utvgr/192016
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", BEIN SPORTS AFC 3 HEVC
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/192017
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", beIN SPORTS 1 PREMIUM FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBD6vh2_RE7KXamgY38npYN7K3ycmRLWFXKZ7EgBlWR_ZwR7eIL8v-H3c&s=10" group-title="BEIN GRUP 2", beIN SPORTS 1 PREMIUM FHD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/7266
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", beIN SPORTS 2 PREMIUM FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBD6vh2_RE7KXamgY38npYN7K3ycmRLWFXKZ7EgBlWR_ZwR7eIL8v-H3c&s=10" group-title="BEIN GRUP 2", beIN SPORTS 2 PREMIUM FHD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/107267
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", beIN SPORTS 3 PREMIUM  FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBD6vh2_RE7KXamgY38npYN7K3ycmRLWFXKZ7EgBlWR_ZwR7eIL8v-H3c&s=10" group-title="BEIN GRUP 2", beIN SPORTS 3 PREMIUM  FHD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/7264
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", beIN SPORTS 1 FHD
@@ -1973,64 +1976,64 @@ http://kingtop10.net:7070/clubdeking2/eh4utvgr/77902
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", FR|BEIN SPORTS 3 SD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/74048
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 4 HD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 4 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/7742
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 4 FHD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 4 FHD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/25989
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", |FR| BEIN SPORTS MAX 4 SD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", |FR| BEIN SPORTS MAX 4 SD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/128998
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 5 HD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 5 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/7741
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", |FR| BEIN SPORTS MAX 5 SD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", |FR| BEIN SPORTS MAX 5 SD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/128999
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 5 FHD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 5 FHD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/25988
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 6 HD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 6 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/7740
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", |FR| BEIN SPORTS MAX 6 SD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", |FR| BEIN SPORTS MAX 6 SD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/129000
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 6 FHD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 6 FHD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/25987
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 7 HD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 7 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/7739
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", |FR| BEIN SPORTS MAX 7 SD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", |FR| BEIN SPORTS MAX 7 SD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/129001
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 7 FHD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 7 FHD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/25986
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 8 HD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 8 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/7738
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", |FR| BEIN SPORTS MAX 8 SD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", |FR| BEIN SPORTS MAX 8 SD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/129002
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", FR|beIN SPORTS MAX 8 FHD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", FR|beIN SPORTS MAX 8 FHD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/25985
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 9 HD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 9 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/7737
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", |FR| BEIN SPORTS MAX 9 SD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", |FR| BEIN SPORTS MAX 9 SD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/129003
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 9 FHD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 9 FHD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/25984
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 10 HD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", FR|BEIN SPORTS MAX 10 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/7736
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", |FR| BEIN SPORTS MAX 10 SD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", |FR| BEIN SPORTS MAX 10 SD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/129004
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", US| BEIN_SPORTS_7
@@ -2126,10 +2129,10 @@ http://kingtop10.net:7070/clubdeking2/eh4utvgr/106450
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: BEIN SPORTS 4 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106451
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: BEIN SPORTS MAX 1 HD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", TR|BEINTK: BEIN SPORTS MAX 1 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106452
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINTK: BEIN SPORTS MAX 2 HD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", TR|BEINTK: BEIN SPORTS MAX 2 HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106453
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQouMAQcMij_BOBQu11cpgiOh-yZWkEtt2oVg&usqp=CAU" group-title="BEIN GRUP 2", TR|BEINTK: BEiN SPORT HABER HD
@@ -2225,7 +2228,7 @@ http://kingtop10.net:7070/clubdeking2/eh4utvgr/106484
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINSPORT 1 HD (50FPS 1080P)
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106485
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINSPORT Haber 4K (3840x2160)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQouMAQcMij_BOBQu11cpgiOh-yZWkEtt2oVg&usqp=CAU" group-title="BEIN GRUP 2", TR|BEINSPORT Haber 4K (3840x2160)
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106486
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINSPORT 2 HD 720P
@@ -2252,25 +2255,25 @@ http://kingtop10.net:7070/clubdeking2/eh4utvgr/106493
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINSPORT 4 HD 1080P
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106494
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINSPORT 1 MAX 720P
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", TR|BEINSPORT 1 MAX 720P
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106495
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINSPORT 1 MAX HD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", TR|BEINSPORT 1 MAX HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106496
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINSPORT 1 MAX
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", TR|BEINSPORT 1 MAX
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106497
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINSPORT 2 MAX 720P
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", TR|BEINSPORT 2 MAX 720P
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106498
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINSPORT 2 MAX HD(DIGIPLAY)
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", TR|BEINSPORT 2 MAX HD(DIGIPLAY)
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106499
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", TR|BEINSPORT 2 MAX
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GRUP 2", TR|BEINSPORT 2 MAX
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/106500
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", beIN SPORTS PREMIUM 1HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBD6vh2_RE7KXamgY38npYN7K3ycmRLWFXKZ7EgBlWR_ZwR7eIL8v-H3c&s=10" group-title="BEIN GRUP 2", beIN SPORTS PREMIUM 1HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/7756
 
 #EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT FR", BEIN SPORT 1
