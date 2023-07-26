@@ -46,10 +46,10 @@ https://nxanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162138
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="TV Nasional", INDOSIAR HD 2
-https://github.com/mimipipi22/nontontv/raw/main/FMX/indosiar.m3u8
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/162138
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="TV Nasional", INDOSIAR HD 3
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/162138
+#https://github.com/mimipipi22/nontontv/raw/main/FMX/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4OGnTqd.png" group-title="TV Nasional", SCTV HD
 https://github.com/mimipipi22/nontontv/raw/main/FMX/sctv.m3u8
