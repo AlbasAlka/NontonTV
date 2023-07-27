@@ -14,10 +14,6 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qzpw3yD.png" group-title="TV Nasional", TRANSTV HD
 https://nxanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:0 group-title="TV Nasional" tvg-logo="https://i.imgur.com/GEZ0vPS.png",TRANS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-https://github.com/mimipipi22/nontontv/raw/main/FMX/trans7.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEZ0vPS.png" group-title="TV Nasional", TRANS 7 HD
@@ -243,8 +239,8 @@ http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/298506
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium445/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="823.astro" tvg-logo="https://i.imgur.com/JLG1vd6.png" group-title="Sports", Premier Sports (F*)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/premiersport.m3u8
+#EXTINF:-1 tvg-id="823.astro" tvg-logo="https://i.imgur.com/JLG1vd6.png" group-title="Sports", Premier Sports
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/4723
 
 #EXTINF:-1 tvg-id="UseeSports" tvg-logo="https://i.imgur.com/Wzd9tZR.png" group-title="Sports", Usee Sports (K*)
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298577
@@ -276,9 +272,6 @@ https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3QdO08DxFc8/YVkqljfCvrI/AAAAAAAAH2E/GBy4DGPowSgeadsXnhhIK_feYedtzhUSACLcBGAsYHQ/s720/spotv2-p.png"group-title="Sports", SPOTV 2 HD
 https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
-#EXTINF:-1 tvg-id="823.astro" tvg-logo="https://i.imgur.com/JLG1vd6.png" group-title="Sports", Premier Sports
-https://github.com/mimipipi22/nontontv/raw/main/FMX/premiersport.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -383,14 +376,15 @@ http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/8567.m3u8
 ##########MOVIES##########
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/YNTKS4Y4/IPTV/main/1687629035-picsay.png" group-title="Movies",Etv Bioskop
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/298526
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/FN3BNwo.png" group-title="Movies",Etv Bioskop
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298526
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/YNTKS4Y4/IPTV/main/1687629035-picsay.png" group-title="Movies",Etv Bioskop 02
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/298527
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298527
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/YNTKS4Y4/IPTV/main/1687629035-picsay.png" group-title="Movies",Etv Bioskop 03
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/298528
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298528
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/YNTKS4Y4/IPTV/main/1687629035-picsay.png" group-title="Movies",Etv Bioskop 04
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/298529
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298529
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bduRS9d.png" group-title="Movies",HBO 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -424,22 +418,22 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533f
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.imgur.com/AqAP5cD.png" group-title="Movies",Cinemachi
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.imgur.com/AqAP5cD.png" group-title="Movies",Cinemachi HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/EUUD8gL.png" group-title="Movies",Cinemachi max
+#EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/EUUD8gL.png" group-title="Movies",Cinemachi max HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/sjBtzWM.png" group-title="Movies",Cinemachi Xtra
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/sjBtzWM.png" group-title="Movies",Cinemachi Xtra HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/Hd39FmE.png" group-title="Movies",Cinemachi Kids
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/Hd39FmE.png" group-title="Movies",Cinemachi Kids HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -469,7 +463,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPre
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7lwMXbA.png" group-title="Movies", IMC HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7lwMXbA.png" group-title="Movies", Indonesia Movie Channels HD
 https://nxanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="https://i.imgur.com/tVALhcN.png" group-title="Movies",Flik
