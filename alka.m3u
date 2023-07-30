@@ -19,6 +19,11 @@ https://nxanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEZ0vPS.png" group-title="TV Nasional", TRANS 7 HD
 https://nxanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PksAqDl.png" group-title="TV Nasional", ANTV HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b4OlqKa.png" group-title="TV Nasional", MNCTV HD
@@ -58,11 +63,12 @@ http://103.166.27.2:800/play/a015
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/4OGnTqd.png",SCTV 2
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/S8YTgXC.jpg",MOJI TV HD
+http://103.166.27.2:800/play/a017
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PksAqDl.png" group-title="TV Nasional", ANTV HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S8YTgXC.jpg"  group-title="TV Nasional",MOJI TV (D*)
+http://210.210.155.35/qwr9ew/s/s41/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -94,12 +100,6 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KpWyLR5i7xQ/YZxuWqY4HfI/AAAAAAAAIJc/aSs_n2nzEQYWjGTpiKpgjjHMiTg7a8jVgCLcBGAsYHQ/s720/Untitled-1.png" group-title="TV Nasional",Indonesiana TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S8YTgXC.jpg"  group-title="TV Nasional",MOJI TV HD
-http://210.210.155.35/qwr9ew/s/s41/index.m3u8
-
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/S8YTgXC.jpg",MOJI TV
-http://103.166.27.2:800/play/a017
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503",Citra Drama
 http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u8
