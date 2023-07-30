@@ -34,12 +34,15 @@ https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1fiKrDy.png" group-title="TV Nasional", GTV HD
 https://nxanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:0 tvg-id="IndosiarInD" tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="TV Nasional",INDOSIAR HD (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="TV Nasional", INDOSIAR HD (Backup)
 http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
 
-#EXTINF:0 tvg-id="IndosiarInD" tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="TV Nasional",INDOSIAR HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="TV Nasional", INDOSIAR HD
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162138
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="TV Nasional", INDOSIAR
