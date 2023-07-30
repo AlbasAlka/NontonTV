@@ -9,12 +9,6 @@
 
 ########################## NASIONAL ##########################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="TV Nasional", INDOSIAR HD
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4OGnTqd.png" group-title="TV Nasional", SCTV HD
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qzpw3yD.png" group-title="TV Nasional", TRANSTV HD
@@ -44,11 +38,15 @@ https://nxanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="TV Nasional", INDOSIAR
+#EXTINF:0 tvg-id="IndosiarInD" tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="TV Nasional",INDOSIAR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162138
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="TV Nasional", INDOSIAR (Backup)
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162138
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="TV Nasional", INDOSIAR
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4OGnTqd.png" group-title="TV Nasional", SCTV HD
+http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PksAqDl.png" group-title="TV Nasional", ANTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
