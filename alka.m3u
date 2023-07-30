@@ -69,7 +69,7 @@ http://103.166.27.2:800/play/a017
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.imgur.com/S8YTgXC.jpg" group-title="TV Nasional",MOJI TV SD
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
-#EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.imgur.com/S8YTgXC.jpg" group-title="TV Nasional",MOJI TV HD 2
+#EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="TV Nasional",MOJI TV HD (LIVE)
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298550
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.imgur.com/S8YTgXC.jpg" group-title="TV Nasional",MOJI TV (Backup)
