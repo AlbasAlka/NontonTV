@@ -35,10 +35,11 @@ https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://nxanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="TV Nasional", INDOSIAR HD (Backup)
-http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/Mf2xpeI.png",INDOSIAR 2
+http://103.166.27.2:800/play/a016
+
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/Mf2xpeI.png",INDOSIAR 3
+http://210.210.155.35/session/9daf4816-dff4-11ec-8d27-c81f66f89318/qwr9ew/s/s04/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -50,6 +51,16 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4OGnTqd.png" group-title="TV Nasional", SCTV HD
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/4OGnTqd.png",SCTV
+http://103.166.27.2:800/play/a015
+
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/4OGnTqd.png",SCTV 2
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/4OGnTqd.png",SCTV 3
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PksAqDl.png" group-title="TV Nasional", ANTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -89,6 +100,9 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S8YTgXC.jpg"  group-title="TV Nasional",MOJI TV HD
 http://210.210.155.35/qwr9ew/s/s41/index.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/S8YTgXC.jpg",MOJI TV
+http://103.166.27.2:800/play/a017
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503",Citra Drama
 http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u8
