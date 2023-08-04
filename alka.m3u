@@ -1448,7 +1448,7 @@ https://webudit.cdnhks.lol/lb/premium45/index.m3u8?|referer=https://widevine.lic
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxsGb9aZY7ao02hjfE-9mQGw-S-pqvhmL64w&usqp=CAU" group-title="BEIN GROUP HD", BEIN MOONBUG
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31488_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxsGb9aZY7ao02hjfE-9mQGw-S-pqvhmL64w&usqp=CAU" group-title="BEIN GROUP HD", BEIN MOONBUG
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxsGb9aZY7ao02hjfE-9mQGw-S-pqvhmL64w&usqp=CAU" group-title="BEIN GROUP HD", BEIN MOONBUG 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=33201_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GROUP HD", BEIN MOVIE FAMILY
@@ -1558,19 +1558,8 @@ http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57793_&extens
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKwSrcWcY15VVsi1ZnCFBtAW_qWxHMRN2oZQ&usqp=CAU" group-title="BEIN SPORT TR", BEIN SPORT 1
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57797_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKwSrcWcY15VVsi1ZnCFBtAW_qWxHMRN2oZQ&usqp=CAU" group-title="BEIN SPORT TR", BEIN SPORT 2
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57800_&extension=ts
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKwSrcWcY15VVsi1ZnCFBtAW_qWxHMRN2oZQ&usqp=CAU" group-title="BEIN SPORT TR", BEIN SPORT 3
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57803_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKwSrcWcY15VVsi1ZnCFBtAW_qWxHMRN2oZQ&usqp=CAU" group-title="BEIN SPORT TR", BEIN SPORT 4
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57806_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN SPORT TR", BEIN MAX 1
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57733_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN SPORT TR", BEIN MAX 2
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57734_&extension=ts
-
-
