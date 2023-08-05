@@ -314,10 +314,10 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298577
 #EXTINF: -1 tvg-name="UsseSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Usee_Sports.png" group-title="Sports", UsseSport 2
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880728
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkIiU6Y571Xpf_-docFFvsdWKRzCDbHfbGcQ&usqp=CAU" group-title="Sports",BeIN Sports Xtra
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMP_4SJ5aoPLbr9J3DAsNA9hhsl1NhZZL5YYc_mhU8mqWBHaWtxynViQyS&s=10" group-title="Sports",BeIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkIiU6Y571Xpf_-docFFvsdWKRzCDbHfbGcQ&usqp=CAU" group-title="Sports",BeIN Sports Xtra HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMP_4SJ5aoPLbr9J3DAsNA9hhsl1NhZZL5YYc_mhU8mqWBHaWtxynViQyS&s=10" group-title="Sports",BeIN Sports Xtra HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0QvYCM30Wn3-KpDcMcr-Byvhv4IHooKXoJUJ9OJuJtcdY2yqbXhuj4BkZsgQqoIPd2givsuUwMMv9Lq1esNdlxO4h7w3IoYTITyxFP_cKPD0CM-wAXg2TAaPzdante5Y9Qgutoiib9D3SeDmcdXv60Og-Arc7l9IpS9BmJbEVYUiMSOJWKFqZQiLs=s720" group-title="Sports",Unifi Sport 1
@@ -1536,22 +1536,22 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21002
 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dc534a39-d741-41c6-bd1a-651381b15e99/dfn63vs-5de79d81-1fc4-4fc1-a9d2-2ff9c955c1a0.png/v1/fill/w_1279,h_625/astro_supersport_screen_bug_logo__2003_present__by_tv4malaysia_dfn63vs-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU5NiIsInBhdGgiOiJcL2ZcL2RjNTM0YTM5LWQ3NDEtNDFjNi1iZDFhLTY1MTM4MWIxNWU5OVwvZGZuNjN2cy01ZGU3OWQ4MS0xZmM0LTRmYzEtYTlkMi0yZmY5Yzk1NWMxYTAucG5nIiwid2lkdGgiOiI8PTMyNjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.7DNSOitadorrbzzsj_TAGbOg6pR5pQl7ZjubufLUlgY" group-title="Sports",Astro Supersport 1
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-logo="https://i.imgur.com/YwQgYTA.png" group-title="Sports",Astro Supersport 1
 https://kusnadipepenk.github.io/ntn/asp1.m3u8
 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dc534a39-d741-41c6-bd1a-651381b15e99/dfn63y0-af20faff-92f0-4482-9a45-9bb33e17e745.png/v1/fill/w_1279,h_625/astro_supersport_2_screen_bug_logo__2009_present__by_tv4malaysia_dfn63y0-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU5NiIsInBhdGgiOiJcL2ZcL2RjNTM0YTM5LWQ3NDEtNDFjNi1iZDFhLTY1MTM4MWIxNWU5OVwvZGZuNjN5MC1hZjIwZmFmZi05MmYwLTQ0ODItOWE0NS05YmIzM2UxN2U3NDUucG5nIiwid2lkdGgiOiI8PTMyNjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.xGiiNRzpyWcEYKbRcZABhAzZy5rPs_V3VoGSe8PynWw" group-title="Sports",Astro Supersport 2
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-logo="https://i.imgur.com/6v1Q1p4.png" group-title="Sports",Astro Supersport 2
 https://kusnadipepenk.github.io/ntn/asp2.m3u8
 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dc534a39-d741-41c6-bd1a-651381b15e99/dfn640l-147c7bd8-6698-432f-a873-360d7a219004.png/v1/fill/w_1279,h_625/astro_supersport_3_screen_bug_logo__2010_present__by_tv4malaysia_dfn640l-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU5NiIsInBhdGgiOiJcL2ZcL2RjNTM0YTM5LWQ3NDEtNDFjNi1iZDFhLTY1MTM4MWIxNWU5OVwvZGZuNjQwbC0xNDdjN2JkOC02Njk4LTQzMmYtYTg3My0zNjBkN2EyMTkwMDQucG5nIiwid2lkdGgiOiI8PTMyNjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.7ugML0FKISz-nceJAgv1iKMMwUrN8WWHcZ7MyoCjnfw" group-title="Sports",Astro Supersport 3
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-logo="https://i.imgur.com/VECGO9W.png" group-title="Sports",Astro Supersport 3
 https://kusnadipepenk.github.io/ntn/asp3.m3u8
 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dc534a39-d741-41c6-bd1a-651381b15e99/dfn643k-55b9d6fa-26f5-40f0-98f0-d9301997235f.png/v1/fill/w_1279,h_625/astro_supersport_4_screen_bug_logo__2013_present__by_tv4malaysia_dfn643k-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU5NiIsInBhdGgiOiJcL2ZcL2RjNTM0YTM5LWQ3NDEtNDFjNi1iZDFhLTY1MTM4MWIxNWU5OVwvZGZuNjQzay01NWI5ZDZmYS0yNmY1LTQwZjAtOThmMC1kOTMwMTk5NzIzNWYucG5nIiwid2lkdGgiOiI8PTMyNjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.W9u7aKHCylvWqpRvWSsnlYFWT0U0C_wHi9B4jEpbnhQ" group-title="Sports",Astro Supersport 4
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-logo="https://i.imgur.com/Ier4PbX.png" group-title="Sports",Astro Supersport 4
 https://kusnadipepenk.github.io/ntn/asp4.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxbwZZrcu2bkn5VfXQhBeeqeiLWdMAMkM_Sw&usqp=CAU" group-title="Sports",Sporttv 1
@@ -1660,19 +1660,19 @@ http://assista.pro:80/0333686557/Vilamariante1/285071
 #EXTINF:-1 group-title="Sports",DE DAZN 2
 http://assista.pro:80/0333686557/Vilamariante1/285072
 
-#EXTINF:-1 group-title="Sports",Sport TV +
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WRWG0HB.jpeg" group-title="Sports",Sport TV +
 http://assista.pro:80/0333686557/Vilamariante1/284956
-#EXTINF:-1 group-title="Sports",Sport TV 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WRWG0HB.jpeg" group-title="Sports",Sport TV 1
 http://assista.pro:80/0333686557/Vilamariante1/284957
-#EXTINF:-1 group-title="Sports",Sport TV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WRWG0HB.jpeg" group-title="Sports",Sport TV 2
 http://assista.pro:80/0333686557/Vilamariante1/284958
-#EXTINF:-1 group-title="Sports",Sport TV 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WRWG0HB.jpeg" group-title="Sports",Sport TV 3
 http://assista.pro:80/0333686557/Vilamariante1/284959
-#EXTINF:-1 group-title="Sports",Sport TV 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WRWG0HB.jpeg" group-title="Sports",Sport TV 4
 http://assista.pro:80/0333686557/Vilamariante1/284960
-#EXTINF:-1 group-title="Sports",Sport TV 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WRWG0HB.jpeg" group-title="Sports",Sport TV 5
 http://assista.pro:80/0333686557/Vilamariante1/284961
-#EXTINF:-1 group-title="Sports",Sport TV 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WRWG0HB.jpeg" group-title="Sports",Sport TV 6
 http://assista.pro:80/0333686557/Vilamariante1/284962
 
 
