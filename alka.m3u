@@ -782,7 +782,12 @@ https://nxanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swrkoaq.jpg" group-title="Knowledge",Animal Planet HD
 http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6nT25Bo.jpg" group-title="Knowledge" , Discovery Channel HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTsw-FydW/bisnet-adventure-4k.png" group-title="Knowledge", Biznet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.imgur.com/6nT25Bo.jpg",Discovery Channel HD http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia" group-title="Knowledge" , Discovery Asia HD
 http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -793,17 +798,12 @@ https://nxanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j6qVWZm.jpg" group-title="Knowledge", LOVE NATURE 4K
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="" tvg-name="INWILD" tvg-logo="https://i.imgur.com/QTPLUvz.jpg" group-title="Knowledge",INWILD
-http://inwild-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.imgur.com/TaZrzBN.png",Asian Food Network HD
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.imgur.com/TaZrzBN.png",Asian Food Network HD (T*)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6857e04fca5017efbaa3ce05d3e/manifest.mpd
 
-#EXTINF:-1 group-title="Knowledge" tvg-id="eatngo.id" tvg-logo="https://www.transvision.co.id/img/channel/eat&go.png",Eat & Go
+#EXTINF:-1 group-title="Knowledge" tvg-id="eatngo.id" tvg-logo="https://www.transvision.co.id/img/channel/eat&go.png",Eat & Go (T*)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
@@ -815,9 +815,6 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://i.imgur.com/ay1ZDhP.jpg" group-title="Knowledge",CGTN DOCUMENTARY
 https://nxanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-p_TMYb1Bhvk/YJYrrRZ8R2I/AAAAAAAAEkg/hL7ReN1UxhwGGgM6_iP-wIrc8KiSJEbqQCLcBGAsYHQ/s720/TLC-Poster.png" group-title="Knowledge",TLC
-http://103.152.118.53:80/streams/efemeks/teelce/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -842,8 +839,21 @@ https://nxanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeIn
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JV88PHoJcd4/YJYkJN3vYZI/AAAAAAAAEjQ/BAzNXdIo2B0tqnaB-qzpDOc2t8BpZxTwwCLcBGAsYHQ/s720/bbcearth-p%2B%25282%2529.png" group-title="Knowledge", BBC Earth HD
 https://nxanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLmqd4qx/PEOPLE-ARE-AWESOME.png" group-title="Pengetahuan Umum",PEOPLE ARE AWESOME
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
+#EXTINF:-1 tvg-id="" tvg-name="INWILD" tvg-logo="https://i.imgur.com/QTPLUvz.jpg" group-title="Knowledge",INWILD
+#http://inwild-samsungau.amagi.tv/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/banner_xhdpi_a_201.jpg" group-title="Knowledge",DIGIONE MAXstream
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manife
+#https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manife
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-p_TMYb1Bhvk/YJYrrRZ8R2I/AAAAAAAAEkg/hL7ReN1UxhwGGgM6_iP-wIrc8KiSJEbqQCLcBGAsYHQ/s720/TLC-Poster.png" group-title="Knowledge",TLC
+#http://103.152.118.53:80/streams/efemeks/teelce/index.m3u8
 
 
 ==========KIDS==========
