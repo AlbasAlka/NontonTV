@@ -1605,55 +1605,47 @@ https://kusnadipepenk.github.io/ntn/skyfut.m3u8
 #EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsArena_201708/sky%20sports%20arena.png" group-title="Sports",Sky Sport Arena
 https://kusnadipepenk.github.io/ntn/skyare.m3u8
 
-#EXTINF:-1 group-title="Sports",Usee Sport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dR6XPfU.jpeg" group-title="Sports",Usee Sport 1
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298577
-#EXTINF:-1 group-title="Sports",Usee Sport 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dR6XPfU.jpeg" group-title="Sports",Usee Sport 2
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298578
 
-
-#EXTINF:-1 group-title="Sports",Champions TV 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LIkVEDB.jpeg" group-title="Sports",Champions TV 1
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298512
-#EXTINF:-1 group-title="Sports",Champions TV 2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5mIqBts.jpeg" group-title="Sports",Champions TV 2
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298513
-#EXTINF:-1 group-title="Sports",Champions TV 3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4F53FSX.jpeg" group-title="Sports",Champions TV 3
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298514
-#EXTINF:-1 group-title="Sports",Champions TV 5
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3nl7Aq.jpeg" group-title="Sports",Champions TV 5
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298491
-#EXTINF:-1 group-title="Sports",Champions TV 6
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iXaMMaK.jpeg" group-title="Sports",Champions TV 6
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298492
 
-#EXTINF:-1 group-title="Sports",beIN Sports 1
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165105
-#EXTINF:-1 group-title="Sports",beIN Sports 3
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298506
-#EXTINF:-1 group-title="Sports",NBA TV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298558
-
-#EXTINF:-1 group-title="Sports",MNC Sports 1
-http://ae2.aatvbox.club:8880/12mk160078/31623992/60351
-#EXTINF:-1 group-title="Sports" group-title="Sports",MNC Sport 2
-http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298548
-
-#EXTINF:-1 group-title="Sports",MNC Sports 3
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298549
-#EXTINF:-1 group-title="Sports",Soccer Channel
-http://ae2.aatvbox.club:8880/12mk160078/31623992/60451
-#EXTINF:-1 group-title="Sports",Soccer Channel 2
-http://ae2.aatvbox.club:8880/12mk160078/31623992/60471
-#EXTINF:-1 group-title="Sports",DAZN 1
+#EXTINF:-1 tvg-logo="https://www.f4wonline.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_760/MTk1NDQyODAwMDY4NjY2NDE5/daznaew.webp" group-title="Sports",DAZN 1
 http://assista.pro:80/0333686557/Vilamariante1/130503
-#EXTINF:-1 group-title="Sports",DAZN 2 
+
+#EXTINF:-1 tvg-logo="https://www.f4wonline.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_760/MTk1NDQyODAwMDY4NjY2NDE5/daznaew.webp" group-title="Sports",DAZN 2 
 http://assista.pro:80/0333686557/Vilamariante1/130505
-#EXTINF:-1 group-title="Sports",DAZN 3
+
+#EXTINF:-1 tvg-logo="https://www.f4wonline.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_760/MTk1NDQyODAwMDY4NjY2NDE5/daznaew.webp" group-title="Sports",DAZN 3
 http://assista.pro:80/0333686557/Vilamariante1/130507
-#EXTINF:-1 group-title="Sports",DAZN 4 
+
+#EXTINF:-1 tvg-logo="https://www.f4wonline.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_760/MTk1NDQyODAwMDY4NjY2NDE5/daznaew.webp" group-title="Sports",DAZN 4 
 http://assista.pro:80/0333686557/Vilamariante1/130509
-#EXTINF:-1 group-title="Sports",DAZN 5
+
+#EXTINF:-1 tvg-logo="https://www.f4wonline.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_760/MTk1NDQyODAwMDY4NjY2NDE5/daznaew.webp" group-title="Sports",DAZN 5
 http://assista.pro:80/0333686557/Vilamariante1/130510
-#EXTINF:-1 group-title="Sports",DE DAZN 1
+
+#EXTINF:-1 tvg-logo="https://www.f4wonline.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_760/MTk1NDQyODAwMDY4NjY2NDE5/daznaew.webp" group-title="Sports",DE DAZN 1
 http://assista.pro:80/0333686557/Vilamariante1/285071
-#EXTINF:-1 group-title="Sports",DE DAZN 2
+
+#EXTINF:-1 tvg-logo="https://www.f4wonline.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_760/MTk1NDQyODAwMDY4NjY2NDE5/daznaew.webp" group-title="Sports",DE DAZN 2
 http://assista.pro:80/0333686557/Vilamariante1/285072
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WRWG0HB.jpeg" group-title="Sports",Sport TV + (Backup)
 http://assista.pro:80/0333686557/Vilamariante1/284956
