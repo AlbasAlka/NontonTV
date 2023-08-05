@@ -785,9 +785,10 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/index.m
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTsw-FydW/bisnet-adventure-4k.png" group-title="Knowledge", Biznet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.imgur.com/6nT25Bo.jpg",Discovery Channel HD http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/03.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6nT25Bo.jpg" group-title="Knowledge" , Discovery Channel HD
+http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia" group-title="Knowledge" , Discovery Asia HD
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia" group-title="Knowledge" ,Discovery Asia HD
 http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -839,7 +840,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeIn
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JV88PHoJcd4/YJYkJN3vYZI/AAAAAAAAEjQ/BAzNXdIo2B0tqnaB-qzpDOc2t8BpZxTwwCLcBGAsYHQ/s720/bbcearth-p%2B%25282%2529.png" group-title="Knowledge", BBC Earth HD
 https://nxanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLmqd4qx/PEOPLE-ARE-AWESOME.png" group-title="Pengetahuan Umum",PEOPLE ARE AWESOME
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLmqd4qx/PEOPLE-ARE-AWESOME.png" group-title="Knowledge",PEOPLE ARE AWESOME
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
 
 
@@ -1584,7 +1585,6 @@ http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671272&extension
 
 
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKwSrcWcY15VVsi1ZnCFBtAW_qWxHMRN2oZQ&usqp=CAU" group-title="BEIN SPORT FR", BEIN SPORT 1 (Backup)
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=507698&extension=ts&play_token=0uUemBBS4q
 
@@ -1608,8 +1608,6 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508148&extens
 
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN SPORT FR", BEIN MAX 5
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508147&extension=ts&play_token=YZuG3msMOE 
-
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQouMAQcMij_BOBQu11cpgiOh-yZWkEtt2oVg&usqp=CAU" group-title="BEIN SPORT FR", BEIN SPORT HABER TR
