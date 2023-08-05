@@ -1519,46 +1519,168 @@ https://webudit.cdnhks.lol/lb/premium45/index.m3u8?|referer=https://widevine.lic
 
 
 
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://i.ibb.co/n6V5V6C/tsn-1-ca.png" group-title="Sports",TSN 1
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21006
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GROUP HD", BEIN MOVIES ACTION 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=33201_&extension=ts
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2" tvg-logo="https://i.ibb.co/4p1PbSh/tsn-2-ca.png" group-title="Sports",TSN 2
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/181852
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GROUP HD", BEIN MOVIE FAMILY
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31490_&extension=ts
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3" tvg-logo="https://i.ibb.co/BZbQYV5/tsn-3-ca.png" group-title="Sports",TSN 3
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/181853
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GROUP HD", BEIN MOVIE PREMIERE
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31492_&extension=ts
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4" tvg-logo="https://i.ibb.co/4W7z5m9/tsn-4-ca.png" group-title="Sports",TSN 4
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21003
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GROUP HD", BEIN MOVIE PREMIER 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=33200_&extension=ts
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5" tvg-logo="https://i.ibb.co/Bq2cfRc/tsn-5-ca.png" group-title="Sports",TSN 5
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21002
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GROUP HD", BEIN MOVIE STARS
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31493_&extension=ts
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Sports",Astro Supersport 1
+https://kusnadipepenk.github.io/ntn/asp1.m3u8
+##https://webudit.cdnhks.lol/lb/premium123/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GROUP HD", BEIN MOVIE TURK
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31494_&extension=ts
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Sports",Astro Supersport 2
+https://kusnadipepenk.github.io/ntn/asp2.m3u8
+##https://webudit.cdnhks.lol/lb/premium124/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcSkmVrX6pqhYsdNr3bx-qRlyE11rR284GJg&usqp=CAU" group-title="BEIN GROUP HD", BEIN SERIES 4
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31495_&extension=ts
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Sports",Astro Supersport 3
+https://kusnadipepenk.github.io/ntn/asp3.m3u8
+##https://webudit.cdnhks.lol/lb/premium125/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcSkmVrX6pqhYsdNr3bx-qRlyE11rR284GJg&usqp=CAU" group-title="BEIN GROUP HD", BEIN SERIES 3
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31497_&extension=ts
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Sports",Astro Supersport 4
+https://kusnadipepenk.github.io/ntn/asp4.m3u8
+##https://webudit.cdnhks.lol/lb/premium126/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcSkmVrX6pqhYsdNr3bx-qRlyE11rR284GJg&usqp=CAU" group-title="BEIN GROUP HD", BEIN SERIES 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31496_&extension=ts
+#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="Sports",Sporttv 1
+https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcSkmVrX6pqhYsdNr3bx-qRlyE11rR284GJg&usqp=CAU" group-title="BEIN GROUP HD", BEIN SERIES 1
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31498_&extension=ts
+#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="Sports",Sporttv 2
+https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_box_office_hepsi.png" group-title="BEIN GROUP HD", BEIN BOX OFFICE 1
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63099_&extension=ts
+#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv3.png" group-title="Sports",Sporttv 3
+https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_box_office_hepsi.png" group-title="BEIN GROUP HD", BEIN BOX OFFICE 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63100_&extension=ts
+#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv4.png" group-title="Sports",Sporttv 4
+https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_box_office_hepsi.png" group-title="BEIN GROUP HD", BEIN BOX OFFICE 3
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63102_&extension=ts
+#EXTINF:-1  tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_1.png" group-title="Sports",Arena 1 Sport
+https://kusnadipepenk.github.io/ntn/arns1.m3u8
 
+#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_2.png" group-title="Sports",Arena 2 Sport
+https://kusnadipepenk.github.io/ntn/arns2.m3u8
+
+#EXTINF:-1  tvg-logo="https://toploni.com/wp-content/uploads/2022/10/Arena-Sport-3-1.png" group-title="Sports",Arena 3 Sport
+https://kusnadipepenk.github.io/ntn/arns3.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport4.png" group-title="Sports",Arena 4 Sport
+https://kusnadipepenk.github.io/ntn/arns4.m3u8
+
+#EXTINF:-1  tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg" group-title="Sports",Eleven 1
+https://kusnadipepenk.github.io/ntn/ele1.m3u8
+
+#EXTINF:-1  tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg" group-title="Sports",Eleven 2
+https://kusnadipepenk.github.io/ntn/ele2.m3u8
+
+#EXTINF:-1  tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg" group-title="Sports",Eleven 3
+https://kusnadipepenk.github.io/ntn/ele3.m3u8
+
+#EXTINF:-1 tvg-logo="https://beisbolenvivo.com/wp-content/uploads/2023/04/dcr34.png" group-title="Sports",Eleven Sport 1
+https://kusnadipepenk.github.io/ntn/elesp1.m3u8
+
+#EXTINF:-1 tvg-logo="https://beisbolenvivo.com/wp-content/uploads/2023/04/dcr34.png" group-title="Sports",Eleven Sport 2
+https://kusnadipepenk.github.io/ntn/elesp2.m3u8
+
+#EXTINF:-1 tvg-logo="https://beisbolenvivo.com/wp-content/uploads/2023/04/dcr34.png" group-title="Sports",Eleven Sport 3
+https://kusnadipepenk.github.io/ntn/elesp3.m3u8
+
+#EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsFootball_201708//sky%20sports%20football_thumb.jpg" group-title="Sports",Sky Sport Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+##https://webudit.cdnhks.lol/lb/premium35/index.m3u8|referrer=https://streamservicehd.click/
+https://kusnadipepenk.github.io/ntn/skyfut.m3u8
+
+#EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsArena_201708/sky%20sports%20arena.png" group-title="Sports",Sky Sport Arena
+https://kusnadipepenk.github.io/ntn/skyare.m3u8
+
+#EXTINF:-1 group-title="Sports",Usee Sport 1
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298577
+#EXTINF:-1 group-title="Sports",Usee Sport 2
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298578
+
+
+#EXTINF:-1 group-title="Sports",Champions TV 1
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298512
+#EXTINF:-1 group-title="Sports",Champions TV 2
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298513
+#EXTINF:-1 group-title="Sports",Champions TV 3
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298514
+#EXTINF:-1 group-title="Sports",Champions TV 5
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298491
+#EXTINF:-1 group-title="Sports",Champions TV 6
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298492
+
+#EXTINF:-1 group-title="Sports",beIN Sports 1
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165105
+#EXTINF:-1 group-title="Sports",beIN Sports 3
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298506
+#EXTINF:-1 group-title="Sports",NBA TV
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298558
+
+#EXTINF:-1 group-title="Sports",SPOTV 1
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298570
+#EXTINF:-1 group-title="Sports",SPOTV 2
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298571
+
+#EXTINF:-1 group-title="Sports",MNC Sports 1
+http://ae2.aatvbox.club:8880/12mk160078/31623992/60351
+#EXTINF:-1 group-title="Sports" group-title="Sports",MNC Sport 2
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298548
+
+#EXTINF:-1 group-title="Sports",MNC Sports 3
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298549
+#EXTINF:-1 group-title="Sports",Soccer Channel
+http://ae2.aatvbox.club:8880/12mk160078/31623992/60451
+#EXTINF:-1 group-title="Sports",Soccer Channel 2
+http://ae2.aatvbox.club:8880/12mk160078/31623992/60471
+#EXTINF:-1 group-title="Sports",DAZN 1
+http://assista.pro:80/0333686557/Vilamariante1/130503
+#EXTINF:-1 group-title="Sports",DAZN 2 
+http://assista.pro:80/0333686557/Vilamariante1/130505
+#EXTINF:-1 group-title="Sports",DAZN 3
+http://assista.pro:80/0333686557/Vilamariante1/130507
+#EXTINF:-1 group-title="Sports",DAZN 4 
+http://assista.pro:80/0333686557/Vilamariante1/130509
+#EXTINF:-1 group-title="Sports",DAZN 5
+http://assista.pro:80/0333686557/Vilamariante1/130510
+#EXTINF:-1 group-title="Sports",DE DAZN 1
+http://assista.pro:80/0333686557/Vilamariante1/285071
+#EXTINF:-1 group-title="Sports",DE DAZN 2
+http://assista.pro:80/0333686557/Vilamariante1/285072
+
+#EXTINF:-1 group-title="Sports",Sport TV +
+http://assista.pro:80/0333686557/Vilamariante1/284956
+#EXTINF:-1 group-title="Sports",Sport TV 1
+http://assista.pro:80/0333686557/Vilamariante1/284957
+#EXTINF:-1 group-title="Sports",Sport TV 2
+http://assista.pro:80/0333686557/Vilamariante1/284958
+#EXTINF:-1 group-title="Sports",Sport TV 3
+http://assista.pro:80/0333686557/Vilamariante1/284959
+#EXTINF:-1 group-title="Sports",Sport TV 4
+http://assista.pro:80/0333686557/Vilamariante1/284960
+#EXTINF:-1 group-title="Sports",Sport TV 5
+http://assista.pro:80/0333686557/Vilamariante1/284961
+#EXTINF:-1 group-title="Sports",Sport TV 6
+http://assista.pro:80/0333686557/Vilamariante1/284962
+
+
+###########BEIN#######
 
 
 #EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/11/beinondemand.png" group-title="BEIN GROUP HD", BEIN OD MOVIE 1 4K
@@ -1592,42 +1714,13 @@ http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671275&extension
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671272&extension=ts&play_token=550LE8wj0Q
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKwSrcWcY15VVsi1ZnCFBtAW_qWxHMRN2oZQ&usqp=CAU" group-title="BEIN SPORT FR", BEIN SPORT 1 (Backup)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKwSrcWcY15VVsi1ZnCFBtAW_qWxHMRN2oZQ&usqp=CAU" group-title="BEIN GROUP HD", BEIN SPORT 1
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=507698&extension=ts&play_token=0uUemBBS4q
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKwSrcWcY15VVsi1ZnCFBtAW_qWxHMRN2oZQ&usqp=CAU" group-title="BEIN SPORT FR", BEIN SPORT 2 (Backup)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKwSrcWcY15VVsi1ZnCFBtAW_qWxHMRN2oZQ&usqp=CAU" group-title="BEIN GROUP HD", BEIN SPORT 2
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=507695&extension=ts&play_token=Sy9xaukhjB
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKwSrcWcY15VVsi1ZnCFBtAW_qWxHMRN2oZQ&usqp=CAU" group-title="BEIN SPORT FR", BEIN SPORT 3 (Backup)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKwSrcWcY15VVsi1ZnCFBtAW_qWxHMRN2oZQ&usqp=CAU" group-title="BEIN GROUP HD", BEIN SPORT 3
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=507692&extension=ts&play_token=r8Q4y4a8N4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKwSrcWcY15VVsi1ZnCFBtAW_qWxHMRN2oZQ&usqp=CAU" group-title="BEIN SPORT FR", BEIN SPORT 1 
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508160&extension=ts&play_token=qapvqz8oDq 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKwSrcWcY15VVsi1ZnCFBtAW_qWxHMRN2oZQ&usqp=CAU" group-title="BEIN SPORT FR", BEIN SPORT 2 
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508159&extension=ts&play_token=XTkA0csslb 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKwSrcWcY15VVsi1ZnCFBtAW_qWxHMRN2oZQ&usqp=CAU" group-title="BEIN SPORT FR", BEIN SPORT 3 
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508158&extension=ts&play_token=Xod89FZwdf 
-
-#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN SPORT FR", BEIN MAX 4
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508148&extension=ts&play_token=JQ2YqBARcU. 
-
-#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN SPORT FR", BEIN MAX 5
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508147&extension=ts&play_token=YZuG3msMOE 
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQouMAQcMij_BOBQu11cpgiOh-yZWkEtt2oVg&usqp=CAU" group-title="BEIN SPORT FR", BEIN SPORT HABER TR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57793_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKwSrcWcY15VVsi1ZnCFBtAW_qWxHMRN2oZQ&usqp=CAU" group-title="BEIN SPORT FR", BEIN SPORT 1 TR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57797_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKwSrcWcY15VVsi1ZnCFBtAW_qWxHMRN2oZQ&usqp=CAU" group-title="BEIN SPORT FR", BEIN SPORT 3 TR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57803_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKwSrcWcY15VVsi1ZnCFBtAW_qWxHMRN2oZQ&usqp=CAU" group-title="BEIN SPORT FR", BEIN SPORT 4 TR
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57806_&extension=ts
 
 
