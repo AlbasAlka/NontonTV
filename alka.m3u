@@ -451,6 +451,7 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79464&extens
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/skycinemascifiandhorror.png" group-title="Movies",Sky Cinema SCI-FI
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79463&extension=ts&play_token=rf5b8r8qco
 
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://",Playboy
 http://23.237.100.82:8000/PLAYBOY/index.m3u8
 
@@ -636,7 +637,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="https://i.imgur.com/tVALhcN.png" group-title="Movies",Flik
-#https://beetv.my.id/x/usee-flik-gojokkk.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165095
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zQ0EbrV.png" group-title="Movies",Movie Kingdom
 #https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
