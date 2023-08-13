@@ -5,9 +5,8 @@
 </script>
 </html>
 
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 #EXTM3U x-tvg-url="https://thefirefox12537.github.io/streams/epg/global/guide.xml.gz" 
-#EXTM3U x-tvg-url="https://stavol.masuk.web.id/epg.xml" 
-#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" 
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml" 
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml" 
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" #EXTM3U x-url-tvg="https://strimz.my.id/epg" 
@@ -193,17 +192,18 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0UMB1w7.png" group-title="Sports", SPORTSTARS 1
-https://nxanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+https://nxanv-live-cdn.mncnow.id/live/eds/Sportstar/sa_dash_vmx/Sportstar.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMwCA1c.png" group-title="Sports", SPORTSTARS 2
-https://nxanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+https://nxanv-live-cdn.mncnow.id/live/eds/Sportstar2/sa_dash_vmx/Sportstar2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/bcbqane.png",SPORTSTARS 3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/bcbqane.png",SPORTSTARS 3 SC
 https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
 
 #EXTM3U
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/0UMB1w7.png",SPORTSTARS 1 HD (Backup)
@@ -224,6 +224,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
+#EXTINF:-1 group-title="Sports" tvg-id="MNCSports4.id" tvg-url="-----------------------l" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPfj8G2lusxSrtjgdQr3A71vI4dmLScMuZbQ&usqp=CAU",SPORTSTARS 4 HD
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/0UMB1w7.png",SPORTSTARS 1 HD (M*)
 https://nxanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
@@ -238,6 +244,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 https://nxanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -393,7 +400,7 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d1VGhxpq/betistv.png" group-title="Sports", Betis TV
-http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/8567.m3u8
+#http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/8567.m3u8
 
 
 
