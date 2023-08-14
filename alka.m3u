@@ -58,20 +58,20 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162138
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/Mf2xpeI.png",INDOSIAR
 http://103.166.27.2:800/play/a016
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/4OGnTqd.png",SCTV
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/4OGnTqd.png",SCTV HD
 http://103.166.27.2:800/play/a015
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/4OGnTqd.png",SCTV HD
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/4OGnTqd.png",SCTV
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/S8YTgXC.jpg",MOJI TV
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/S8YTgXC.jpg",MOJI TV HD
 http://103.166.27.2:800/play/a017
 
-#EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.imgur.com/S8YTgXC.jpg" group-title="TV Nasional",MOJI TV HD
+#EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.imgur.com/S8YTgXC.jpg" group-title="TV Nasional",MOJI TV
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298550
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.imgur.com/S8YTgXC.jpg" group-title="TV Nasional",MOJI TV (Backup)
-https://github.com/thefirefox12537/streams/raw/master/moji_2.m3u8
+#https://github.com/thefirefox12537/streams/raw/master/moji_2.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
