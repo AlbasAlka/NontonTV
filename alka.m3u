@@ -52,32 +52,26 @@ https://nxanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="TV Nasional", INDOSIAR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="TV Nasional", INDOSIAR HD
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162138
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/Mf2xpeI.png",INDOSIAR HD
-http://210.210.155.35/session/9daf4816-dff4-11ec-8d27-c81f66f89318/qwr9ew/s/s04/02.m3u8
-
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/Mf2xpeI.png",INDOSIAR (Backup)
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/Mf2xpeI.png",INDOSIAR
 http://103.166.27.2:800/play/a016
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/4OGnTqd.png",SCTV SD
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/4OGnTqd.png",SCTV
 http://103.166.27.2:800/play/a015
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/4OGnTqd.png",SCTV HD
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/S8YTgXC.jpg",MOJI TV (Backup)
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/S8YTgXC.jpg",MOJI TV
 http://103.166.27.2:800/play/a017
 
-#EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.imgur.com/S8YTgXC.jpg" group-title="TV Nasional",MOJI TV
+#EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.imgur.com/S8YTgXC.jpg" group-title="TV Nasional",MOJI TV HD
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298550
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.imgur.com/S8YTgXC.jpg" group-title="TV Nasional",MOJI TV (Backup)
 https://github.com/thefirefox12537/streams/raw/master/moji_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S8YTgXC.jpg"  group-title="TV Nasional",MOJI TV (D*)
-http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -183,12 +177,12 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0UMB1w7.png" group-title="Sports", SPORTSTARS 1
-https://nxanv-live-cdn.mncnow.id/live/eds/Sportstar/sa_dash_vmx/Sportstar.mpd
+https://nxanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMwCA1c.png" group-title="Sports", SPORTSTARS 2
-https://nxanv-live-cdn.mncnow.id/live/eds/Sportstar2/sa_dash_vmx/Sportstar2.mpd
+https://nxanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
