@@ -146,7 +146,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u
 #EXTINF:-1 tvg-id="CitraBioskop.id" tvg-logo="https://i.imgur.com/7QGm9dt.png" group-title="TV Nasional",CITRA BIOSKOP
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/index.m3u8
 
-#EXTINF:-1 tvg-id="DigdayaTV.id" tvg-name="" tvg-url="" tvg-logo="https://i.imgur.com/3EVWz1z.png" group-title="TV Nasional",Garuda TV
+#EXTINF:-1 tvg-id="DigdayaTV.id" tvg-name="" tvg-url="" tvg-logo="https://i.imgur.com/U2lJdBp.png" group-title="TV Nasional",Garuda TV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/garuda.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Usee_Prime.png" group-title="TV Nasional",UseePrime
@@ -1767,15 +1767,6 @@ http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671275&extension
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_box_office_hepsi.png" group-title="BEIN GROUP HD", BEIN BOX OFFICE 2 4K
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671272&extension=ts&play_token=550LE8wj0Q
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKwSrcWcY15VVsi1ZnCFBtAW_qWxHMRN2oZQ&usqp=CAU" group-title="BEIN GROUP HD", BEIN SPORT 1
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=507698&extension=ts&play_token=0uUemBBS4q
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKwSrcWcY15VVsi1ZnCFBtAW_qWxHMRN2oZQ&usqp=CAU" group-title="BEIN GROUP HD", BEIN SPORT 2
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=507695&extension=ts&play_token=Sy9xaukhjB
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKwSrcWcY15VVsi1ZnCFBtAW_qWxHMRN2oZQ&usqp=CAU" group-title="BEIN GROUP HD", BEIN SPORT 3
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=507692&extension=ts&play_token=r8Q4y4a8N4
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/93053f4167ff4534d5c36ceb918f1615.png" group-title="Romania ➾ Sports", RO: DIGI Sport 1
