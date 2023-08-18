@@ -4353,10 +4353,10 @@ https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1fiKrDy.png" group-title="Nasional", GTV 
 https://nxanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://i.imgur.com/4OGnTqd.png",SCTV HD
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://i.imgur.com/4OGnTqd.png",SCTV (LIVE)
 http://103.166.27.2:800/play/a015
 
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://i.imgur.com/4OGnTqd.png",SCTV (LIVE)
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://i.imgur.com/4OGnTqd.png",SCTV HD
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4OGnTqd.png" group-title="Nasional", SCTV SD
