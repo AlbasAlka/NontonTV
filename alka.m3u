@@ -10,11 +10,3 @@ https://raw.githubusercontent.com/mimipipi22/streams/master/nosignal/index.m3u8
 #EXTINF:-1 group-title="Albas Alka" tvg-logo="https://static.whatsapp.net/rsrc.php/v3/yR/r/y8-PTBaP90a.png", 082246543995
 https://raw.githubusercontent.com/mimipipi22/streams/master/nosignal/index.m3u8
 
-
-
-########################## NASIONAL ##########################
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qzpw3yD.png" group-title="UPDATE", UPDATE APK NYA
-https://raw.githubusercontent.com/mimipipi22/streams/master/nosignal/index.m3u8
