@@ -1,6 +1,6 @@
 # NontonTV
 
-Nonton siaran televisi dimana aja dan kapan aja, asalkan kuota banyak & internet kenceng. Cocok untuk dipasang ke android stb/box. Aplikasi bisa diunduh [disini](https://github.com/hariimurti/NontonTV/releases).
+Nonton siaran televisi dimana aja dan kapan aja, asalkan kuota banyak & internet kenceng. Cocok untuk dipasang ke android stb/box. Aplikasi bisa diunduh [disini](https://github.com/AlbasAlka/NontonTV/releases).
 
 
 # PERINGATAN & LARANGAN
