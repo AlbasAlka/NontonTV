@@ -1,6 +1,6 @@
 {
-    "versionCode": 544,
-    "versionName": "v2.4",
+    "versionCode": 541,
+    "versionName": "v4.0",
     "changelog": ["iptv-org as default playlist", "app in landscape mode", "ffmpeg libs", "optimize prebuffer", "change player layout", "and more.."],
-    "downloadUrl": "https://github.com/AlbasAlka/NontonTV/releases/download/2.4/nonton.tv_v2.4_b544.apk"
+    "downloadUrl": "https://github.com/AlbasAlka/NontonTV/releases/download/4.0/nonton.tv_v4.0_b541.apk"
 }
